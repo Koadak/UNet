@@ -10,6 +10,9 @@ This paper builds on top of the ResNet, a convolutional neural network that empl
 
 The U-Net guesses image masks while also utilizing skip connections to ensure the original image is not lost. The most applicable feature is the ability to track certain features in medical scans depending on what the user has trained it on.
 
+![image](https://github.com/user-attachments/assets/d5a2301d-1822-4adf-9c41-a04716426978)
+
+
 ## Overview
 
 UNet is a convolutional neural network architecture designed for biomedical image segmentation. This repository contains an implementation of the UNet model, along with a detailed walkthrough based on the UNet paper and an accompanying coding demo.
