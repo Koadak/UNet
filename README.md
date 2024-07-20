@@ -17,11 +17,3 @@ UNet is a convolutional neural network architecture designed for biomedical imag
 - `utils.py`: Helper functions used throughout the project.
 - `README.md`: This file, providing an overview of the project and its contents.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.6 or higher
-- PyTorch
-- NumPy
-- Matplotlib
