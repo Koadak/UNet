@@ -4,7 +4,7 @@ This project contains my code walking through the UNet paper and coding demo fou
 [UNet Coding Demo](https://nn.labml.ai/unet/index.html)
 
 Link to the paper can be found here: 
-[U-Net: Convolutional Networks for Biomedical Image Segmentation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1505.04597v1)
+[U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597v1)
 
 ## Overview
 
